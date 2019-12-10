@@ -1,0 +1,10 @@
+insert into books values('12345', 'John', 'Johns Story', '100.50', 'Biographies');
+insert into books values('23456', 'Francisco', 'Knights of the Round Table', '49.99', 'Adventure');
+insert into books values('34567', 'Dan', 'Tales of Serpents', '30.50', 'Adventure');
+insert into books values('45678', 'Juan', 'A Simple Farmer', '40.99', 'Biographies');
+insert into books values('56789', 'Kim', 'The Sickness of Greed', '9999.99', 'Biographies');
+insert into books values('67890', 'Linda', 'In Limbo', '700.50', 'Adventure');
+insert into books values('78901', 'Hope', 'Cookies', '200.99', 'Adventure');
+insert into books values('89012', 'Leon', 'To be a King', '40.33', 'Adventure');
+insert into books values('90123', 'Jeff', 'Jeffs Tale', '100.50', 'Biographies');
+insert into books values('01234', 'Garfield', 'Tale of Two Kittens', '99.99', 'Adventure');
